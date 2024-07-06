@@ -1,0 +1,2 @@
+﻿GitHub là trang web có hệ thống dựa trên Git, cung cấp hệ thống quản lý cho người dùng mà chủ yếu là các nhà lập trình các phiên bản code, chia sẻ mã nguồn tương tự như tính năng chia sẻ của mạng xã hội.
+
